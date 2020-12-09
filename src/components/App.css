@@ -28,6 +28,37 @@
   color: #61dafb;
 }
 
+#card-body {
+  background-color: #151515;
+  background-position: 0% 0%;
+}
+
+#card {
+  height: 355px;
+  width: 191px;
+  overflow: hidden;
+}
+
+#card-img {
+  height: "210px";
+  transition: transform 0.5s ease;
+}
+#card-img:hover {
+  transform: scale(1.2);
+}
+
+#link {
+  text-decoration: none;
+}
+
+#navbar-image{
+  background-image: url("https://terrigen-cdn-dev.marvel.com/content/prod/1x/characters_art_mas_mob_01.jpg");
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

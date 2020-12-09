@@ -11,6 +11,9 @@
 # production
 /build
 
+# github
+keys.js
+
 # misc
 .DS_Store
 .env.local
