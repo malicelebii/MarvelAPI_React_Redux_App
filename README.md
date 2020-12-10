@@ -1,4 +1,4 @@
-# Before gettin started
+# Before getting started
 You should create a **config** folder inside src folder and put **keys.js** file with exporting *API_KEY*, *API_SERVER* values from developer.marvel.com into config folder. 
 
 # Dependencies
