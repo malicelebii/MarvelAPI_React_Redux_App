@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Before gettin started
+You should create a **config** folder inside src folder and put **keys.js** file with exporting *API_KEY*, *API_SERVER* values from developer.marvel.com into config folder. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dependencies
+To install dependencies you should run `npm install` command in the project directory.
 
 ## Available Scripts
 
